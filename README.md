@@ -1,4 +1,4 @@
-# Pustaka Agreement Generator
+# AI Agreement Generator
 
 An AI-powered desktop application that auto-generates publishing agreements for authors. Built for the operations team at Pustaka Media — eliminating manual form-filling across 7 agreement types.
 
